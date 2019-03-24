@@ -1,0 +1,6 @@
+#ignore files called .classpath and .project
+.classpath
+project
+
+#ignore the foled called node_modulr
+/node_module
